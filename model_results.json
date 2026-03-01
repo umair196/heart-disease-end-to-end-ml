@@ -1,0 +1,16 @@
+{
+  "LogisticRegression": {
+    "cv_auc_mean": 0.7892336596181229,
+    "cv_auc_std": 0.004298535540677645
+  },
+  "RandomForest": {
+    "cv_auc_mean": 0.772574023628553,
+    "cv_auc_std": 0.0047300330599103066
+  },
+  "XGBoost": {
+    "cv_auc_mean": 0.8007632975678358,
+    "cv_auc_std": 0.005155105271438737,
+    "test_auc": 0.797926804982783,
+    "test_accuracy": 0.7304486482568674
+  }
+}
